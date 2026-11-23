@@ -1,5 +1,18 @@
 # Hi, I'm Kris 👋
 
+<!-- KRIS-SUPPORT-START -->
+
+> ☕ **Support Free FPV Software Development**
+>
+> All my applications are free and open source. If you find
+> them useful, optional contributions help support continued
+> development and improvements.
+>
+> **[☕ Buy Me a Coffee](https://buymeacoffee.com/krisgleave)**
+
+<!-- KRIS-SUPPORT-END -->
+
+
 ### FPV Pilot | Filmmaker | Open-Source Developer
 
 Based in Preston, UK 🇬🇧
