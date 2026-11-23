@@ -41,3 +41,17 @@ A macOS application for transferring and managing BETAFPV P1 recordings.
 
 **All my software projects are free to explore.**
 If you find them useful, consider starring their repositories.
+
+## ☕ Support My Open-Source Projects
+
+I develop and release my FPV applications for free because I enjoy
+creating tools that help the community.
+
+If OSD Editor, DVR Remaster or P1 Transfer has saved you time or
+improved your workflow, you're welcome to support their continued
+development.
+
+Contributions are entirely optional, and the software remains free.
+
+☕ **[Buy Me a Coffee](https://buymeacoffee.com/krisgleave)**
+
